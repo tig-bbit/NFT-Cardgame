@@ -3,6 +3,8 @@
 
 Experience the thrill of Web3 gaming like never before with EtherClash, a cutting-edge online multiplayer card game set in the exciting world of NFTs. Prepare to be captivated by its stunning design, interactive gameplay, and immersive features, all powered by the Avalanche Fuji Testnet blockchain.
 
+<img width="1433" alt="NFTCardgame" src="https://github.com/JjuliSanz/NFT-Cardgame/assets/100944753/61cb22c4-812f-47b0-ae4a-1ca2c4d9f440">
+
 - Real-Time Duels: Engage in thrilling head-to-head card duels with players from across the globe. Utilize your strategic wit and NFT card collection to dominate the competition and claim victory.
 
 - Legendary NFT Cards: Discover a diverse array of legendary NFT cards, each possessing unique abilities and attributes. Assemble a formidable deck, trade cards, and level them up to create your ultimate arsenal.
