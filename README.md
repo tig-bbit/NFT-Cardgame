@@ -18,7 +18,7 @@ Embark on an epic journey into the realm of NFT gaming, where every choice shape
 Are you ready to unleash your tactical genius and become a legend in the world of EtherClash? Enlist now and embark on the quest to dominate the NFT card dueling arena. The future of gaming is here."
 
 
-## Acknowledgements
+## Technology Stack & Tools
 
  - [Solidity](https://docs.soliditylang.org)
  - [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
