@@ -33,7 +33,7 @@ const PageHOC = (Component, title, description) => () => {
           <Component />
         </div>
 
-        <p className={styles.footerText}>Made whit 💜 by Juli</p>
+        <p className={styles.footerText}>Made whit 💜 by Json</p>
       </div>
 
       <div className="flex flex-1">
